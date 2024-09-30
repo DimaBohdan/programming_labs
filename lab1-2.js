@@ -8,3 +8,4 @@ const CountTypes = (array) => {
   }
     return hash;
 };
+module.exports = { CountTypes };
