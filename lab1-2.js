@@ -8,4 +8,3 @@ const CountTypes = (array) => {
   }
     return hash;
 };
-console.log(CountTypes([3, 6, 'ddd', true, false]));
